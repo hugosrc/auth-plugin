@@ -1,0 +1,8 @@
+name: Auth
+version: ${project.version}
+main: me.hugosrc.auth.AuthPlugin
+author: HugoSr
+depend: ["Core"]
+commands:
+  login:
+  register:
